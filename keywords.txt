@@ -1,0 +1,10 @@
+####################################################
+# Syntax Coloring Map
+####################################################
+
+Rox74HC4067	KEYWORD1
+Rox74HC4051	KEYWORD1
+begin	KEYWORD2
+setSignalPin	KEYWORD2
+update	KEYWORD2
+read	KEYWORD2
