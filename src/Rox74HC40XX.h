@@ -1,6 +1,6 @@
 /*
   https://www.RoxXxtar.com/bmc
-  See license.txt
+  Licensed under the MIT license. See LICENSE file in the project root for full license information.
 
   Library to read one or more 74HC4067 or 74HC4051 analog-in multiplexers
 
